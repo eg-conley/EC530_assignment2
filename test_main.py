@@ -1,4 +1,4 @@
-# structure created with ChatGPT, added extra tests
+# structure created with ChatGPT, will add extra tests
 from fastapi.testclient import TestClient
 from main import app
 
